@@ -1,0 +1,12 @@
+incloude <cs50.h>
+incloude <stdio.h>
+incloude <stringe.h>
+
+int main (void)
+
+{ // print from the user 
+for int("input : ");
+ (output:hello. ");
+ printf("/n")
+}
+  
